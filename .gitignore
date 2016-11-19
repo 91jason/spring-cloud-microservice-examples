@@ -72,3 +72,4 @@ cloud-thrift-server/.project
 cloud-thrift-server/.settings/org.eclipse.m2e.core.prefs
 cloud-zipkin/.project
 cloud-zipkin/.settings/org.eclipse.m2e.core.prefs
+/bin/

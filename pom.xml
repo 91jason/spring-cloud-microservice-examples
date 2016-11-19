@@ -113,10 +113,10 @@
         </repository>
 
          <!--repository for finagle-->
-        <repository>
-            <id>Twitter</id>
-            <url>http://maven.twttr.com/</url>
-        </repository>
+<!--        <repository>-->
+<!--            <id>Twitter</id>-->
+<!--            <url>http://maven.twttr.com/</url>-->
+<!--        </repository>-->
     </repositories>
     <pluginRepositories>
         <pluginRepository>
